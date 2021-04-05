@@ -16,8 +16,10 @@ div {
 <div>
 <br>
 <br>
-<h2>Ciao! Benvenuto in Scalza Gallo The Game! <br>
-Il gioco che serve al mio ideatore per testare alcune tecnologie, ma che intratterrà chi ci giocherà grazie alle sue geniali trovate!</h2>
+<h2>Ciao! Benvenuto in <font color="red">Scalza Gallo The Game!</font> <br>
+Il gioco che serve al mio ideatore per testare alcune tecnologie di back-end, 
+<br>
+ma che intratterrà chi ci giocherà grazie alle sue geniali trovate!</h2>
 <br>
 <br>
 <br>
@@ -28,7 +30,7 @@ Il gioco che serve al mio ideatore per testare alcune tecnologie, ma che intratt
 <a href="start"><button type="submit" class="btn btn-danger">SI</button></a> <h2>Fammi vedere un po' che cos'è questa cagata</h2>
 <br>
 
-<button type="button" class="btn btn-success">NO</button>
+<a href="nope"><button type="button" class="btn btn-success">NO</button></a>
 <h2>Ho altro di meglio da fare. Grazie</h2>
 
 </div>

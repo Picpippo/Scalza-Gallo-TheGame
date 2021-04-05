@@ -21,5 +21,12 @@ public class ScalzagalloController {
 					return "start";
 					
 				}
+				
+				@RequestMapping(value="/nope", method = RequestMethod.GET)
+				public String nope(Model model) {
+					
+					return "nope";
+					
+				}
 
 }
